@@ -14,6 +14,6 @@ public class StudentDto {
     private String address;
     private String mobileNo;
 
-    private Integer salary;
+    //private Integer salary;
 
 }
